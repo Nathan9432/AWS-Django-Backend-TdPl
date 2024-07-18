@@ -127,5 +127,5 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ORIGIN_WHITELIST = [
-    'http://coppernicous-frontend-bucket.s3-website.us-east-2.amazonaws.com/'
+    'http://coppernicous-frontend-bucket.s3-website.us-east-2.amazonaws.com'
 ]
