@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-uh3!y-#$sdozf7m1h_86o7aw)$vr54=byly=sbe$v(d(45^psk
 DEBUG = True
 
 ALLOWED_HOSTS = [
-	'13.59.132.117'
+	'13.59.132.117',
+	'142.202.127.195'
 ]
 
 
